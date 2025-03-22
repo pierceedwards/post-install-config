@@ -29,23 +29,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/user-attachments/assets/804f21cf-4270-4f47-8f41-87f0e3576678)
 </p>
+
+![Screenshot 2025-03-21 225048](https://github.com/user-attachments/assets/ef2ffddc-98bd-4ed1-9bdc-c17404ecffda)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Updating and adding roles allows privilage assigning based on Departments and individual Teams 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2025-03-21 225155](https://github.com/user-attachments/assets/3ea73d1d-dead-411e-a87e-5fdf2e8b29fc)
+![Screenshot 2025-03-21 225546](https://github.com/user-attachments/assets/6ad5f1a0-c2ef-47d7-9e1e-5610a36c1499)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Add any user that may need to log into the system and assign passwords and username
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2025-03-21 230155](https://github.com/user-attachments/assets/fa205236-7a9b-4d6b-9649-2ba2ff3d0540)
+![Screenshot 2025-03-21 225900](https://github.com/user-attachments/assets/ce8301d2-1809-41f8-a584-6678258f4802)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
