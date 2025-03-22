@@ -47,7 +47,7 @@ Updating and adding roles allows privilage assigning based on Departments and in
 
 </p>
 <p>
-Add any user that may need to log into the system and assign passwords and username
+Now we can add any user that may need to log into the system and assign them passwords and usernames
 </p>
 <br />
 
@@ -58,6 +58,6 @@ Add any user that may need to log into the system and assign passwords and usern
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring SLAs to determine severity guidlines of a potential problem. Help topics cover common issuses that help users categorize the issue faced.
 </p>
 <br />
