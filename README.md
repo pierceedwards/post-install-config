@@ -58,6 +58,6 @@ Now we can add any user that may need to log into the system and assign them pas
 
 </p>
 <p>
-Configuring SLAs to determine severity guidlines of a potential problem. Help topics cover common issuses that help users categorize the issue faced.
+Configuring SLAs and Help topics to determine severity guidlines of a potential problem and cover common issuses that help users categorize the issue faced.
 </p>
 <br />
